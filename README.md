@@ -39,7 +39,6 @@ headers used
 ### SAMPLE:
 ```strcpy(charcommand,"espeak -ven-us+f2 \"");
    strcat(charcommand,"opening_");
-//    strcat(charcommand,"_");
    
    strcat(charcommand,web);
    strcat(charcommand,"\"");
