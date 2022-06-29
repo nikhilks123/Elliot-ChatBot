@@ -1,10 +1,10 @@
 # ELLIOT
 ## TABLE OF CONTENTS
-1. [INTRODUCTION:]()
-2. [PREREQUISITE:]()
-3. [WORKING]()
-4. [SCOPE OF IMPROVEMENT]()
-5. [REFERENCES]()
+1. [INTRODUCTION:](https://github.com/nikhilks123/Elliot-ChatBot/blob/main/README.md#introduction)
+2. [PREREQUISITE:](https://github.com/nikhilks123/Elliot-ChatBot/blob/main/README.md#prerequisite)
+3. [WORKING](https://github.com/nikhilks123/Elliot-ChatBot/blob/main/README.md#working)
+4. [SCOPE OF IMPROVEMENT](https://github.com/nikhilks123/Elliot-ChatBot/blob/main/README.md#scope-of-improvement)
+5. [REFERENCES](https://github.com/nikhilks123/Elliot-ChatBot/blob/main/README.md#references)
 ## INTRODUCTION:
 ELLIOT is a user-freindly chat-bot which helps the user in solving 
 all the queries and clears all the needs.
